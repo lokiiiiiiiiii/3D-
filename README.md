@@ -29,4 +29,5 @@
 ## 此任务需要在10月10日完成 注册账号群里在线表格填写 3D绘图程序安装完成需要进行截图
 ***p.s.关于3D绘图学习方面，可以提前开始***
 solidworks->>https://www.bilibili.com/video/BV1iw411Z7HZ/?spm_id_from=333.999.0.0&vd_source=a0ebcff40305cd92675bfcd3b97af55e
+
 fusion360->>https://www.bilibili.com/video/BV1kt411U7CP/?spm_id_from=333.999.0.0&vd_source=a0ebcff40305cd92675bfcd3b97af55e
