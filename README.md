@@ -23,7 +23,9 @@
 #### **fusion360**
 > 有想使用fusion360的同学也可以到这里申请免费个人许可，一年无限制使用期，之后是10云端存储限制但是可以一直免费试用
 链接指路->>https://www.autodesk.com.cn/campaigns/education/fusion-360?mktvar002=4857292|SEM|BAI_AEX_Fusion-360_APAC_CN_Visits_SEM_BR_New_EX_ANG_4857292_General-Fusion___&src=Baidu&medium=PPC&Network=1&kw=397626823220&ad=58555188077&mt=1&ap=mt1&ag_kwid=19609-63-eeafabc0f6fc9249.6dc9cb8d2bde36a4_m
+> 
 > fusion360的优点是体积比较小，但是该有的功能都有，而且比较擅长渲染以及和其他制造软件联动(比如可以直接调用实验室3D打印机的切片软件)
+> 
 > 这里发一个使用了fusion的项目仓库，在页面最下面有fusion的渲染效果及建模概览
 > https://gitlab.com/nbutroboticslab/Elec-Ctr-Dev/Projects-Storage/2022-Antagonism-CustomDesign
 ## 此任务需要在10月10日完成 注册账号群里在线表格填写 3D绘图程序安装完成需要进行截图
