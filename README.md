@@ -46,5 +46,6 @@ fusion360->>https://www.bilibili.com/video/BV1kt411U7CP/?spm_id_from=333.999.0.0
 > 所以联系我拜托各位同学依照下面的照片按照尺寸要求将3D图绘制出来
 ![dianji](https://github.com/lokiiiiiiiiii/3D-/blob/main/img/IMG_4735(20221010-211307).JPG)
 
+p.s. ***编码盘部分不用画出来 留相应长度的标识物就行***
 ***打分按时间分和质量分打（时间分占%40，质量分占60%）*** ### 勿抄袭！
 ## 请在10月15号前完成该任务
