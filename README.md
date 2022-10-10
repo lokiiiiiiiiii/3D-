@@ -33,3 +33,7 @@
 solidworks->>https://www.bilibili.com/video/BV1iw411Z7HZ/?spm_id_from=333.999.0.0&vd_source=a0ebcff40305cd92675bfcd3b97af55e
 
 fusion360->>https://www.bilibili.com/video/BV1kt411U7CP/?spm_id_from=333.999.0.0&vd_source=a0ebcff40305cd92675bfcd3b97af55e
+
+## 第一次任务
+> 观看学习上文链接中的教程视频，熟练草图绘制的基本操作
+> ****然后本周任务草图绘制清明上河图3天时间****
